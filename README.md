@@ -7,7 +7,9 @@
     <img src="https://github.com/frosty171/frosty171/blob/main/duck.gif"  width="24px" style="max-width:100%;">
     <p align="center">  
   <a href="https://www.github.com/frosty171" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/frosty171?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/frosty171?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+<img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=frosty171&countColorcountColor&countColor=%230095FF" alt="Profile Views"/>
+    </a>
 </p>
 <p align="center">  
  </p>
