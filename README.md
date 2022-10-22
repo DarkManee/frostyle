@@ -1,10 +1,7 @@
 <h1 align="center">
+ Hi, I'm Robson!
   <a target="_blank">
-    <img src="https://github.com/frosty171/frosty171/blob/main/duck.gif" width="24px" style="max-width:100%;">
-  </a>
-  Hello There, I'm Robson!
-  <a target="_blank">
-    <img src="https://github.com/frosty171/frosty171/blob/main/duck.gif"  width="24px" style="max-width:100%;">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
     <p align="center">  
   <a href="https://www.github.com/frosty171" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/frosty171?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
