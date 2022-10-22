@@ -1,12 +1,11 @@
 <h1 align="center">
- Hi, I'm Robson!
+ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Robson!
   <a target="_blank">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
     <p align="center">  
-  <a href="https://www.github.com/frosty171" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/frosty171?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-<img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=frosty171&countColorcountColor&countColor=%230095FF" alt="Profile Views"/>
-    </a>
+  <a href="https://www.github.com/frosty171" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/github/followers/frosty171?logo=github&style=for-the-badge&color=0891b2&" />
+<img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=frosty171&countColorcountColor&countColor=%230095FF" /> 
+  </a>
 </p>
 <p align="center">  
  </p>
@@ -36,12 +35,14 @@ src="https://img.shields.io/github/followers/frosty171?logo=github&style=for-the
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=frosty171&layout=compact&theme=github_dark"
     />
 </a>
+ <p align="center"> 
   <a href="https://github.com/frosty171/github-readme-stats">
     <img
       align="center"
       height="165"
       src="https://github-readme-stats.vercel.app/api?username=frosty171&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=github_dark"
     />
+   </p>
   </a>
    <p align="center">  
  </p>
