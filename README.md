@@ -32,15 +32,14 @@
 <a href="https://github.com/frosty171/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=frostyle&layout=compact&theme=github_dark&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=frostyle&layout=compact&theme=github_dark&hide_border=true&border_radius=25"
     />
 </a>
  <p align="center"> 
   <a href="https://github.com/frostyle/github-readme-stats">
     <img
       align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=frostyle&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=github_dark&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api?username=frostyle&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=github_dark&hide_border=true&border_radius=25"
     />
    </p>
   </a>
