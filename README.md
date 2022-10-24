@@ -3,8 +3,6 @@
   <a target="_blank">
     <p align="center">  
   <a href="https://www.github.com/frostyle" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/github/followers/frostyle?logo=github&style=for-the-badge&color=0891b2&" />
-<img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=frostyle&countColorcountColor&countColor=%230095FF" /> 
   </a>
 </p>
 <p align="center">  
@@ -13,7 +11,7 @@
 </h1>
 
 <h1 align="center">
-  Skills
+  Skill's
   <p align="center">  
  </p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
