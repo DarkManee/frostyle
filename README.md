@@ -29,7 +29,7 @@
   Github Stats
   <p align="center">  
  </p>
-<a href="https://github.com/frosty171/github-readme-stats">
+<a href="https://github.com/frosty171/">
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=frostyle&layout=compact&theme=react&hide_border=true&border_radius=25"
@@ -37,7 +37,7 @@
 </a>
  <p </p>
  <p align="center"> 
-  <a href="https://github.com/frostyle/github-readme-stats">
+  <a href="https://github.com/frostyle/">
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api?username=frostyle&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=react&hide_border=true&border_radius=25"
