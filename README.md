@@ -56,8 +56,4 @@
   <img align="center" src="https://lanyard.cnrad.dev/api/923563369989046324">
 </a>
 </h1>
-
-
-  ![Snake animation](https://github.com/frostyle/frostyle/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
