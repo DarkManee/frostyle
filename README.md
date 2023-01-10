@@ -52,8 +52,8 @@
   <p align="center">  
  </p>
 
-<a href="https://discord.com/users/923563369989046324"> 
-  <img align="center" src="https://lanyard.cnrad.dev/api/923563369989046324">
+<a href="https://discord.com/users/845387175105527858"> 
+  <img align="center" src="https://lanyard.cnrad.dev/api/845387175105527858">
 </a>
 </h1>
 </div>
